@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { Link, useParams } from "react-router-dom";
 import { selectcards } from "./cardsSlice";
 import { useSelector } from "react-redux";
 
